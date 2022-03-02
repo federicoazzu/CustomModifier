@@ -44,7 +44,6 @@ struct ContentView: View {
             .centerH()
         }
         .addNavigationView(title: "Settings")
-
     }
 }
 
